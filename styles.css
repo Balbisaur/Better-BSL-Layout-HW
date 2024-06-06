@@ -1,0 +1,14 @@
+.services .card {
+  border: none;
+  box-shadow: 0 0.5rem 1rem rgba(212, 30, 30, 0.15);
+}
+
+.about .card {
+  border: none;
+  background-color: #f8f9fa;
+}
+
+.contact .form-control:focus {
+  border-color: #c93edb;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
